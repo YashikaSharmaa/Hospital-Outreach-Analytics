@@ -7,7 +7,9 @@
 Data-driven spatial and demographic analysis of patient registration data to optimize outreach strategies and drive revenue growth for a 200-bed multi-specialty hospital in Faridabad, India.
 
 Data Collection Period: July 2024 - May 2025 (11 months)
+
 Dataset: 10,319 patient records from Faridabad
+
 Code Link: [Click here](https://colab.research.google.com/drive/1po9ECYvxywYR8Ilu_k4CnccUk9hBcYlj?usp=sharing)
 
 ## Objectives
