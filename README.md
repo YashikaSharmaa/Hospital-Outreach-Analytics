@@ -78,6 +78,8 @@ Dataset: 10,319 patient records from Faridabad
 - Visualization: Plotly Express, Plotly Graph Objects
 - Environment: Google Colab
 
+Code Link: [Click here](https://colab.research.google.com/drive/1po9ECYvxywYR8Ilu_k4CnccUk9hBcYlj?usp=sharing)
+
 ## Recommendations
 
 1. Regional Outreach (Problem 1)
