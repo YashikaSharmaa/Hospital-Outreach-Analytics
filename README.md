@@ -102,12 +102,12 @@ Code Link: [Click here](https://colab.research.google.com/drive/1po9ECYvxywYR8Il
     - Girl child healthcare equality campaigns
     - Women's wellness center establishment
 
-4. Continuous Monitoring
-
-- Real-time dashboard for patient flow tracking
-- Quarterly strategic reviews
-- Campaign ROI measurement
-- Competitive intelligence monitoring
+    4. Continuous Monitoring
+    
+    - Real-time dashboard for patient flow tracking
+    - Quarterly strategic reviews
+    - Campaign ROI measurement
+    - Competitive intelligence monitoring
 
 ## Limitations
 
